@@ -14,7 +14,7 @@
 </div>
 
 
-## Qualquer coisa
+## Top Langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SenacCarlos&hide_progress=true)
 
 ### Aceito doação em: [![Bitcoin](https://img.shields.io/badge/Bitcoin-FF9900?logo=bitcoin&logoColor=white)](#) [![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white)](#)
